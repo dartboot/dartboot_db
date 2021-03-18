@@ -1,0 +1,11 @@
+name: dartboot_db_example
+description: A starting point for Dart libraries or applications.
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dev_dependencies:
+  dartboot_db:
+    path: ../
