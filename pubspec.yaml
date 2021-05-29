@@ -1,6 +1,6 @@
 name: dartboot_db
 description: The common db package for DartBoot database intergration.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/dartboot/dartboot_db
 
 environment:

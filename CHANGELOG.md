@@ -1,4 +1,4 @@
-## 1.0.2
+## 1.0.2|3
 
 - Add `sql.dart` which is SQL builder tool.
 
