@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Add `sql.dart` which is SQL builder tool.
+
 ## 1.0.1
 
 - Export `DbError` class.
